@@ -1,0 +1,6 @@
+{
+  "name": "Sky Dream",
+  "description": "AI webtoon & novel interactive storytelling chat with 6-axis emotion tracking, World-to-Character lore docs, character cards, and narrative memory compaction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
